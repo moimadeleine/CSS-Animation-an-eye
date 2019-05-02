@@ -1,3 +1,3 @@
 # CSS-Animation-an-eye
 
-an excercise by The Awwwesomes
+an exercise by The Awwwesomes
